@@ -25,3 +25,7 @@ You can install the requirements with:
 
 ```bash
 pip install -r requirements.txt
+
+## Snapshot of the Knowledge graph constructed in Neo4j
+![image](https://github.com/user-attachments/assets/c700cb39-7b05-46e0-8057-8a90610ecb97)
+
