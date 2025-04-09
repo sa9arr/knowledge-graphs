@@ -25,7 +25,19 @@ You can install the requirements with:
 
 ```bash
 pip install -r requirements.txt
+```
 
 ## Snapshot of the Knowledge graph constructed in Neo4j
-![image](https://github.com/user-attachments/assets/c700cb39-7b05-46e0-8057-8a90610ecb97)
+![image](./images/graph.png)
+
+
+## Above Notebook relies on LLMGraphTransformer to construct the knowledge graph. Here is how LLMGraphTransformer works under the hood.
+
+![image](./images/high_level_diagram.png)
+
+## DeepDive 
+![image](./images/working.png)
+
+
+
 
